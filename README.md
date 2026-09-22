@@ -11,7 +11,7 @@ Implementation of a naive RAG pipeline: TF-IDF/BM25 retrieval, chunking strategi
 | 3 | Quantization | Binary and int8 embeddings, Matryoshka truncation |
 | 4 | Evaluation | Precision, recall, PR curve |
 | 5 | A RAG Pipeline | TMDB movies → MiniLM → ChromaDB → Mistral-7B recommendations |
-| 6 | Reranking | MonoBERT cross-encoder reranking, AI-assisted (LLM-judge) reranking, integration into the RAG pipeline |
+| 6 | Reranking | MonoBERT cross-encoder reranking, integration into the RAG pipeline |
 
 ## Usage
 
